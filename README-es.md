@@ -1502,15 +1502,15 @@ You're never really done.
     - [ ] [Cómo Funciona un Compilador en ~1 minuto (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
     - [ ] [Harvard CS50 - Compiladores (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
     - [ ] [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
-    - [ ] [Entendimiento el Optimización de los Compiladores (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
+    - [ ] [Entendimiendo el Optimización de los Compiladores (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
 - ### Números de Punto Flotando
     - [ ] simple 8-bit: [Representacion de los Números de Punto Flotando - 1 (video - hay un error en los cálculos - Ver la Descripción del Video)](https://www.youtube.com/watch?v=ji3SfClm8TU)
     - [ ] 32 bit: [IEEE754 32-bit Binario del Punto Flotando (video)](https://www.youtube.com/watch?v=50ZYcZebIec)
 
 - ### Unicode
-    - [ ] [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets]( http://www.joelonsoftware.com/articles/Unicode.html)
-    - [ ] [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
+    - [ ] [El Mínimo Absoluto que Todos Deben Conocer Sobre Unicode y Conjuntos de Caracteres]( http://www.joelonsoftware.com/articles/Unicode.html)
+    - [ ] [Lo Que Cada Programador Necesita Conocer Sobre Encodings y Conjuntos de Caractres Para Trabajando Con el Texto](http://kunststube.net/encoding/)
 
 - ### Endianness
     - [ ] [Big And Little Endian](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
