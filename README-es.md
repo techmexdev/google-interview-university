@@ -1467,9 +1467,9 @@ You're never really done.
     - una suave introducción a los patrones de diseño
 - [ ] [Patrones de Diseño: Elementos de Software Orientado a Objetos Reutilizables](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
     - un libro también conocido como el "Gang Of Four", o también GOF
-    - el libro de patrones de diseño canónicos
+        - el libro de patrones de diseño canónicos
 - [ ] [Ingeniería de Confiabilidad del Sitio](https://landing.google.com/sre/book.html)
-     [ ] [Ingeniería de Confiabilidad del Sitio: Cómo Google Ejecuta Sistemas de Producción](https://landing.google.com/sre/)
+    -[ ] [Ingeniería de Confiabilidad del Sitio: Cómo Google Ejecuta Sistemas de Producción](https://landing.google.com/sre/)
 - [ ] [Manual de Administración de Sistemas UNIX y Linux, Cuarta Edición](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
 
 ## Aprendizaje Adicional
