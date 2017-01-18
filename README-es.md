@@ -1498,11 +1498,11 @@ You're never really done.
         - [ ] [Global pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/UZ7o6/global-pairwise-sequence-alignment)
         - [ ] [Local pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/WnNau/local-pairwise-sequence-alignment)
 
-- ### Compilers
-    - [ ] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
-    - [ ] [Harvard CS50 - Compilers (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
+- ### Compiladores
+    - [ ] [Cómo Funciona un Compilador en ~1 minuto (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
+    - [ ] [Harvard CS50 - Compiladores (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
     - [ ] [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
-    - [ ] [Understanding Compiler Optimization (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
+    - [ ] [Entendimiento el Optimización de los Compiladores (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
 - ### Floating Point Numbers
     - [ ] simple 8-bit: [Representation of Floating Point Numbers - 1 (video - there is an error in calculations - see video description)](https://www.youtube.com/watch?v=ji3SfClm8TU)
