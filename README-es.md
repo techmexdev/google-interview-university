@@ -1469,7 +1469,7 @@ You're never really done.
     - un libro también conocido como el "Gang Of Four", o también GOF
     - el libro de patrones de diseño canónicos
 - [ ] [Ingeniería de Confiabilidad del Sitio](https://landing.google.com/sre/book.html)
-- [ ] [Ingeniería de Confiabilidad del Sitio: Cómo Google Ejecuta Sistemas de Producción](https://landing.google.com/sre/)
+     [ ] [Ingeniería de Confiabilidad del Sitio: Cómo Google Ejecuta Sistemas de Producción](https://landing.google.com/sre/)
 - [ ] [Manual de Administración de Sistemas UNIX y Linux, Cuarta Edición](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
 
 ## Aprendizaje Adicional
