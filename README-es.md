@@ -1474,8 +1474,8 @@ You're never really done.
 ## Aprendizaje Adicional
 
 - ### Programación Dinámica
-    - Esta tema puede ser mucho difícil, as each DP soluble problem must be defined as a recursion relation, and coming up with it can be tricky.
-    - Le sugiero que mire muchos ejemplos de las DP problemas hasta que tengas un buen entendimiento del patrón involucrado.
+    - Esta tema puede ser bastante complicado, ya que cada problema soluble de DP debe ser definido como una relación de recursión, y buscando lo puesde ser complicado también.
+    - Le sugiero que mire muchos ejemplos de las DP problemas hasta que tengas un buen entendimiento de los patrónes involucrados.
     - [ ] Videos:
         - the Skiena videos can be hard to follow since he sometimes uses the whiteboard, which is too small to see
         - [ ] [Skiena: CSE373 2012 - Lectura 19 - Introducción a la Programación Dinámica (video)](https://youtu.be/Qc2ieXRgR0k?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&t=1718)
