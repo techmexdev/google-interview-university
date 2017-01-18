@@ -1458,19 +1458,19 @@ You're never really done.
 
 ## Libros Adicionales
 
-- [ ] [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
+- [ ] [El Entorno de Programación de Unix](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
     - es algo viejo pero bueno
-- [ ] [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
+- [ ] [La Línea de Comandos de Linux: Una Introducción Completa](https://www.amazon.com/dp/1593273894/)
     - una opción más moderna
-- [ ] [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
-- [ ] [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
+- [ ] [TCP/IP Series Ilustradas](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
+- [ ] [Principales Patrones de Diseño](https://www.amazon.com/gp/product/0596007124/)
     - una suave introducción a los patrones de diseño
-- [ ] [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-    - también conocido como the "Gang Of Four" book, or GOF
+- [ ] [Patrones de Diseño: Elementos de Software Orientado a Objetos Reutilizables](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+    - un libro también conocido como el "Gang Of Four", o también GOF
     - el libro de patrones de diseño canónicos
-- [ ] [Site Reliability Engineering](https://landing.google.com/sre/book.html)
-    - [Ingeniería de Confiabilidad del Sitio: Cómo Google Ejecuta Sistemas de Producción](https://landing.google.com/sre/)
-- [ ] [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
+- [ ] [Ingeniería de Confiabilidad del Sitio](https://landing.google.com/sre/book.html)
+- [ ] [Ingeniería de Confiabilidad del Sitio: Cómo Google Ejecuta Sistemas de Producción](https://landing.google.com/sre/)
+- [ ] [Manual de Administración de Sistemas UNIX y Linux, Cuarta Edición](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
 
 ## Aprendizaje Adicional
 
